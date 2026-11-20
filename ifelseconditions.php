@@ -16,6 +16,6 @@ elseif($d>20){
     echo "you are eligible for alcohal";
 }
 else{
-    echo "you are drink water only";
+    echo "you can drink water only";
 }
 ?>
